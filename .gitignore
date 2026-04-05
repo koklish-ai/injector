@@ -1,0 +1,13 @@
+x64/
+*.exe
+*.pdb
+*.obj
+*.iobj
+*.iidx
+*.lib
+*.exp
+*.idb
+*.pch
+*.ilk
+*.log
+.vs/
